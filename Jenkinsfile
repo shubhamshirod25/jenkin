@@ -23,7 +23,7 @@ post
   {
     always 
     {
-      emailext body: 'hello ashok', replyTo: '1ms21mc010@gmail.com', subject: 'subject', to: '1ms21mc010@gmail.com'
+      emailext body: 'summary', replyTo: 'skshirod25@gmail.com', subject: 'pipeline - notify', to: 'skshirod25@gmail.com'
     }
   }
 }
